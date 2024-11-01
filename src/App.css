@@ -1,0 +1,33 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 2rem;
+  }
+  
+  .login-form-button {
+    width: 100%;
+  }
+  
+  .login {
+    background-color: rgb(68 79 79);
+    padding: 1rem;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  .icon {
+    font-size: 30px;
+    margin-right: 5px;
+  }
+  
